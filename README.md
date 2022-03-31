@@ -13,11 +13,8 @@
 The project is based on carousel which is a slideshow which helps to cycle through the series of content. This project focuses on applying the concepts of HTML, CSS and Javascript.
 
 ### Goal of the Project
-* The Goal of this project to get sum of 21 to get blackjack and win the game.
-* If the sum is less than 21 then you get to pick more cards from the deck.
-* If the sum is greater than 21 then you will lose the game.
-* To add a start game and pick new card button.
-* To show how much credits does the user have.
+* The Goal of this project to cycle through images.
+* There is Next and Previous button to slide through images.
 
 ## Screenshot
 
@@ -29,9 +26,9 @@ The project is based on carousel which is a slideshow which helps to cycle throu
 * Javascript
 
 ## What I Learned
-* Learned about if/else statement.
-* learned about For loops.
-* Learned about AND and OR operators. 
+* Learned about DOM.
+* Learned about functions.
+* Learned about if/else statements.
 
 ## Acknowledgment
    My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
