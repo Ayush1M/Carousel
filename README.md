@@ -1,31 +1,34 @@
-# title(){return this.options.title||this.options.name}
+# Carousel
 
-Quick start:
+## Table of Content
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+ * [Overview of the Project](#overview-of-the-project)
+      * [Goal of the project](#goal-of-the-project)
+      * [Screenshot](#screenshot)
+ * [Technologies I Used](#technologies-i-used)
+ * [What I Learned](#what-i-learned) 
+ * [Acknowledgment](#acknowledgment)
 
-## Development
+# Overview of the Project
+The project is based on carousel which is a slideshow which helps to cycle through the series of content. This project focuses on applying the concepts of HTML, CSS and Javascript.
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+### Goal of the Project
+* The Goal of this project to cycle through images.
+* There is Next and Previous button to slide through images.
 
-```
-$ yarn watch # npm run watch
-```
+## Screenshot
 
-## Supporting Scrimba
+![](./images/blackjackgame.png)
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+## Technologies I Used
+* Semantic HTML5
+* CSS
+* Javascript
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+## What I Learned
+* Learned about DOM.
+* Learned about functions.
+* Learned about if/else statements.
 
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+## Acknowledgment
+   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
