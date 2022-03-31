@@ -18,7 +18,9 @@ The project is based on carousel which is a slideshow which helps to cycle throu
 
 ## Screenshot
 
-![](./images/blackjackgame.png)
+![](./images/Carouselscreenshot.png)
+
+![](./images/Carousel-Screenshot.png)
 
 ## Technologies I Used
 * Semantic HTML5
