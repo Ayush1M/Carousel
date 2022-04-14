@@ -13,8 +13,8 @@
 The project is based on carousel which is a slideshow which helps to cycle through the series of content. This project focuses on applying the concepts of HTML, CSS and Javascript.
 
 ### Goal of the Project
-* The Goal of this project to cycle through images.
-* There is Next and Previous button to slide through images.
+* The Goal of this project to create a slider to cycle through images.
+* To add a Next and Previous button to slide through images.
 
 ## Screenshot
 
